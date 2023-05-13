@@ -1,3 +1,5 @@
+![bg](https://github.com/ShirokoBOT/ShirokoBOT/assets/130768162/de879791-4be1-4eee-8fc9-dc40968f2aa9)
+
 [@ShirokoBOT](https://github.com/ShirokoBOT) is a bot which belongs to [@YanDao0313](https://github.com/YanDao0313)
 
 Avatar from [*Blue Archive*](https://bluearchive.nexon.com/home) | Copyright Feedback [Email](mailto:copyright@ydlk.cc) | [shiroko.ydlk.cc](https://shiroko.ydlk.cc/)
