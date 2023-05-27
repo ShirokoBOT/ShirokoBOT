@@ -2,7 +2,7 @@
 
 [@ShirokoBOT](https://github.com/ShirokoBOT) is a bot which belongs to [@YanDao0313](https://github.com/YanDao0313) (blog posts at [his blog](https://daoblog.top/))
 
-> Avatar&Background from [*Blue Archive*](https://bluearchive.nexon.com/home) | Copyright Feedback [Email](mailto:copyright@ydlk.cc) | About [*SHIROKO Project*](https://shiroko.ydlk.cc/)
+> Avatar&Background from [*Blue Archive*](https://bluearchive.nexon.com/home) | Copyright Feedback [Email](mailto:copyright@ydlk.cc)<!-- | About [*SHIROKO Project*](https://shiroko.ydlk.cc/)-->
 
 <!--
 **ShirokoBOT/ShirokoBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
