@@ -1,4 +1,6 @@
-![bg](https://github.com/ShirokoBOT/ShirokoBOT/assets/130768162/de879791-4be1-4eee-8fc9-dc40968f2aa9)
+<!--![bg](https://github.com/ShirokoBOT/ShirokoBOT/assets/130768162/de879791-4be1-4eee-8fc9-dc40968f2aa9)-->
+
+![newbg](https://github.com/ShirokoBOT/ShirokoBOT/assets/130768162/6be307d6-c185-48c4-939a-d3de637eb63c)
 
 [@ShirokoBOT](https://github.com/ShirokoBOT) is a bot which belongs to [@YanDao0313](https://github.com/YanDao0313)<!-- (blog posts at [his blog](https://daoblog.top/))-->
 
